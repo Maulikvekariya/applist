@@ -1,6 +1,4 @@
-{
-  "data": {
-    "apps": [
+  "apps": [
       {
         "id": "47078507804",
         "title": "Professional HD Camera Pro",
@@ -79,6 +77,4 @@
         "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.secretapplock.funnyselfie.camera.png",
         "rating": "4.6"
       }
-    ],
-  }
-}
+    ]
