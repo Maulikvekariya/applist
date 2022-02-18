@@ -1,80 +1,45 @@
  [
       {
-        "id": "47078507804",
-        "title": "Professional HD Camera Pro",
-        "app_id": "com.photo.maker.hd.camera",
-        "description": "Professional HD Camera Pro is a best fully professional featured free Camera app",
-        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.photo.maker.hd.camera.png"
-      },
-      {
-        "id": "47868006931",
-        "title": "Password manager",
-        "app_id": "com.my.password.manager",
-        "description": "one password app for android is the world's best and most downloaded password manager",
-        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.my.password.manager.png"
-      },
-      {
-        "id": "32923801937",
-        "title": "Applock",
-        "app_id": "com.applock.fingerprint.applockforall.privacy",
-        "description": "Applock can lock Facebook, WhatsApp, Gallery, Messenger, Snapchat, Instagram, SMS, Contacts and any app you choose.",
-        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.applock.fingerprint.applockforall.privacy.png"
-      },
-      {
-        "id": "33990655908",
-        "title": "Gallery",
-        "app_id": "com.photo.gallery.photo.albums",
-        "description": "Gallery is the best android galaxy app for image & video viewing that works for Galaxy users.",
-        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.photo.gallery.photo.albums.jpg"
-      },
-      {
-        "id": "33990656878",
-        "title": "Music Video Maker - Slideshow",
-        "app_id": "com.music.video.maker",
-        "description": "Best Video Editor App on Android is Slideshow - Video Status Maker for MV Master.",
-        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.music.video.maker.png"
-      },
-      {
-        "id": "32923802897",
-        "title": "Account Balance Check",
-        "app_id": "com.balancecheck.allbankbalanceinquiry.balancechecker",
-        "description": "Check Balance: Bank Account Balance Check.",
-        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.balancecheck.allbankbalanceinquiry.balancechecker.png"
-      },
-      {
-        "id": "33990657048",
-        "title": "Contacts",
-        "app_id": "com.universal.mycontacts",
-        "description": "A contact manager is a android app program that enables users to easily store and find contact information.",
-        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.universal.mycontacts.png"
-      },
-      {
-        "id": "49657504403",
-        "title": "S10 Music Player - Music Player for S10 Galaxy",
-        "app_id": "com.online.music.mp3.musicplayer",
-        "description": "S10 Music Player - Music Player for S10 Galaxy is the best music player for Android with the perfect equalizer.",
-        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.online.music.mp3.musicplayer.png"
-      },
-      {
-        "id": "49657491858",
-        "title": "UC Vault",
-        "app_id": "com.filevault.privary",
-        "description": "Since the dawn of time, solitary lovers (more accurately, lusters) have kept the erotic spark alive by sexting.",
-        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.filevault.privary.png"
-      },
-      {
-        "id": "49657491878",
-        "title": "Slow Motion Editor",
-        "app_id": "com.slow.motion.editor.camera",
-        "description": "Slow motion editor is Slow Motion Video or Slow Motion Camera to Create awesome videos with Fast Motion, Slow Motion and Reverse Video edits!",
-        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.slow.motion.editor.camera.png"
-      },
-      {
-        "id": "49658307702",
-        "title": "Face up - Face Editor",
-        "app_id": "com.secretapplock.funnyselfie.camera",
-        "description": "Face up, the cool funny Live camera, gender swap with crazy & funny effects of Lens.",
-        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.secretapplock.funnyselfie.camera.png",
+        "id": "111111",
+        "title": "IG Saver-Instagram Downloader",
+        "app_id": "com.video.download.instastorydownload",
+        "description": "Free Download Instagram Reels,Video and All Status ",
+        "url_m": "https://raw.githubusercontent.com/Maulikvekariya/applogo/main/112233.jpg",
         "rating": "4.6"
-      }
-    ]
+      },
+     {
+       "id": "111112",
+        "title": "Clean Master - Speedy booster",
+        "app_id": "com.tools.devicecare",
+        "description": "Keep your phone clean, free up space and memory to improve its performance.",
+        "url_m": "https://raw.githubusercontent.com/Maulikvekariya/applogo/main/Junkcleanerlogopsd.png",
+        "rating": "4.7"
+     },
+     {
+        "id": "111113",
+        "title": "English Dictionary Offline",
+        "app_id": "com.tools.englishhindi_dictonary",
+        "description": "Translate Both Hindi to English and English to Hindi Offline Dictionary",
+        "url_m": "https://raw.githubusercontent.com/Maulikvekariya/applogo/main/ehindi.jpg",
+        "rating": "4.3"
+     },
+    {
+        "id": "111114",
+        "title": "GB Version 2021",
+        "app_id": "com.video.download.whatsapp_status_saverapp",
+        "description": "GB Version 2021 and Status Downloader",
+        "url_m": "https://raw.githubusercontent.com/Maulikvekariya/applogo/main/wplogo.png",
+        "rating": "4.1"
+     
+     },
+    {
+        "id": "111115",
+        "title": "Fast Followers and Likes Pro",
+        "app_id": "com.instagramlikefollow_booster",
+        "description": "Fast Instagram Follower and Likes Pro Hashtags",
+        "url_m": "https://raw.githubusercontent.com/Maulikvekariya/applogo/main/likesfollower.png",
+        "rating": "4.5"
+     } 
+ 
+ 
+ ]
